@@ -1,0 +1,18 @@
+body{
+    background-color:#e18a7a ;
+}
+#hero{
+    background-color: rgb(233, 114, 159);
+    color: black;
+    font-family: "Libre Baskerville", cursive;
+    margin: 20px;
+    padding: 10px;
+    text-align: center;
+}
+#about{
+    background-color: #6e612f;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 20px;
+    padding: 10px;
+    text-align: center;
+}
